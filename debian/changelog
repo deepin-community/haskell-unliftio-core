@@ -1,0 +1,41 @@
+haskell-unliftio-core (0.1.2.0-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:42:20 +0800
+
+haskell-unliftio-core (0.1.2.0-3) unstable; urgency=medium
+
+  * Patch for newer base.
+
+ -- Clint Adams <clint@debian.org>  Sat, 30 May 2020 12:41:57 -0400
+
+haskell-unliftio-core (0.1.2.0-2) unstable; urgency=medium
+
+  * Patch for newer deps
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 23 Aug 2019 15:23:22 +0200
+
+haskell-unliftio-core (0.1.2.0-1) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+  [ Ilias Tsitsimpis ]
+  * Bump debhelper compat level to 10
+  * New upstream release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 30 Sep 2018 13:24:55 +0300
+
+haskell-unliftio-core (0.1.1.0-1) unstable; urgency=medium
+
+  * Bump to Standards-Version 4.1.4.
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 17:20:58 -0400
+
+haskell-unliftio-core (0.1.0.0-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Clint Adams <clint@debian.org>  Sun, 17 Dec 2017 08:23:59 -0500
